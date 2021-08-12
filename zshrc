@@ -9,15 +9,15 @@ ZSH_AUTOSUGGEST_BUFFER_MAX_SIZE=20
 export EDITOR='vim'
 
 # aliases
-alias sshusc="ssh rpsanjay@discovery.usc.edu"
-alias ds="./manage.sh start; ./manage.sh shell"
-alias dst="./manage.sh stop"
+alias python="python3"
+alias books="cd ~/Documents/Books/books-repo"
+alias pip="pip3"
+alias c="clear"
+alias g="git"
 alias jl="jupyter lab"
-alias cs="cd ~/Documents/USC/cs104"
-alias bb="cd ~/Documents/Blackbox/Piotroski"
-alias ze="conda activate env_zipline"
-alias de="conda deactivate"
 alias ll="ls -a"
+alias sshusc="ssh rpsanjay@discovery.usc.edu"
+
 
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
