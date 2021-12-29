@@ -17,6 +17,9 @@ alias g="git"
 alias jl="jupyter lab"
 alias ll="ls -a"
 alias sshusc="ssh rpsanjay@discovery.usc.edu"
+alias bill="cd ~/Documents/Misc/ && jl"
+alias quant="cd ~/Documents/USC/QuantSC"
+alias math="cd ~/Documents/USC/Junior_Year/Fall_2021/MATH_446 && jl"
 
 
 # >>> conda initialize >>>
