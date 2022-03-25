@@ -20,6 +20,7 @@ alias sshusc="ssh rpsanjay@discovery.usc.edu"
 alias bill="cd ~/Documents/Misc/ && jl"
 alias quant="cd ~/Documents/USC/QuantSC"
 alias math="cd ~/Documents/USC/Junior_Year/Fall_2021/MATH_446 && jl"
+alias tree="tree -I 'node_modules|cache|yarn.lock|package.json'"
 
 
 # >>> conda initialize >>>
@@ -36,3 +37,9 @@ else
 fi
 unset __conda_setup
 # <<< conda initialize <<<
+
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+
+export PATH="$PATH:/Users/rohansanjay/.foundry/bin"

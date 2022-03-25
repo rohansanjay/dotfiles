@@ -12,7 +12,7 @@ set encoding=utf-8
 set ruler
 
 " highlight current line
-set cursorline
+" set cursorline
 
 " redraw screen only when we need to
 set lazyredraw 
