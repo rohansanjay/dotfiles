@@ -20,7 +20,8 @@ alias sshusc="ssh rpsanjay@discovery.usc.edu"
 alias bill="cd ~/Documents/Misc/ && jl"
 alias quant="cd ~/Documents/USC/QuantSC"
 alias math="cd ~/Documents/USC/Junior_Year/Fall_2021/MATH_446 && jl"
-alias tree="tree -I 'node_modules|cache|yarn.lock|package.json'"
+alias tree="tree -I 'node_modules|cache|yarn.lock|package.json|__pycache__'"
+alias y="yarn"
 
 
 # >>> conda initialize >>>
