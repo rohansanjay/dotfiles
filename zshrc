@@ -9,18 +9,19 @@ ZSH_AUTOSUGGEST_BUFFER_MAX_SIZE=20
 export EDITOR='vim'
 
 # aliases
-alias python="python3"
+alias bill="cd ~/Documents/Misc/ && jl"
 alias books="cd ~/Documents/Books/books-repo"
-alias pip="pip3"
 alias c="clear"
 alias g="git"
 alias jl="jupyter lab"
 alias ll="ls -a"
-alias sshusc="ssh rpsanjay@discovery.usc.edu"
-alias bill="cd ~/Documents/Misc/ && jl"
-alias quant="cd ~/Documents/USC/QuantSC"
 alias math="cd ~/Documents/USC/Junior_Year/Fall_2021/MATH_446 && jl"
+alias pip="pip3"
+alias python="python3"
+alias quant="cd ~/Documents/USC/QuantSC"
+alias sshusc="ssh rpsanjay@discovery.usc.edu"
 alias tree="tree -I 'node_modules|cache|yarn.lock|package.json|__pycache__'"
+alias v="vim"
 alias y="yarn"
 
 
