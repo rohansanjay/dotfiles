@@ -9,6 +9,7 @@
     aa = add -A
     au = add -u
     b = branch
+    bm = branch -M main
     c = commit
     ca = commit --amend
     can = commit --amend --no-edit
@@ -16,9 +17,13 @@
 	co = checkout
     l = log
     ll = log -7 --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
-    pu = push
     pl = pull
     plr = pull --rebase
+    pu = push
+    pum = push -u origin main
+    r = remote
+    rv = remote -v
+    rsuo = remote set-url origin
 	s = status
 [user]
 	name = Rohan Sanjay
