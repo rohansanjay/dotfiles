@@ -24,6 +24,7 @@ alias quant="cd ~/Documents/USC/QuantSC"
 alias sshusc="ssh rpsanjay@discovery.usc.edu"
 alias tree="tree -I 'node_modules|cache|yarn.lock|package.json|__pycache__'"
 alias v="vim"
+alias vs="code ."
 alias y="yarn"
 
 export PATH="$PATH:/Users/rohansanjay/.foundry/bin"
