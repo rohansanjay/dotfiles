@@ -1,3 +1,3 @@
-# Dotfiles
+# dotfiles
 
-dotfile stash
+. files !
