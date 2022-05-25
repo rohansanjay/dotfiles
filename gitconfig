@@ -13,8 +13,10 @@
     c = commit
     ca = commit --amend
     can = commit --amend --no-edit
+    cl = clone
     cm = commit -m
 	co = checkout
+    cob = checkout -b
     l = log
     ll = log -7 --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
     pl = pull
