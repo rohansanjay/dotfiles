@@ -10,6 +10,7 @@ export EDITOR='vim'
 
 # aliases
 alias c="clear"
+alias e="exit"
 alias f="forge"
 alias g="git"
 alias headers="cd ~/Documents/Repos/personal/headers && cargo run"
