@@ -24,7 +24,8 @@
     pu = push
     pum = push -u origin main
     r = remote
-    rv = remote -v
+    re = rebase
+    rs = restore
     rsuo = remote set-url origin
 	s = status
 [user]
