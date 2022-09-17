@@ -9,6 +9,7 @@ ZSH_AUTOSUGGEST_BUFFER_MAX_SIZE=20
 export EDITOR='vim'
 
 # aliases
+alias act="source env/bin/activate"
 alias c="clear"
 alias e="exit"
 alias f="forge"
