@@ -1,10 +1,5 @@
 export PATH=/usr/local/gcc-arm/bin:$PATH
 
-# autosuggestions
-source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
-ZSH_AUTOSUGGEST_STRATEGY=(match_prev_cmd)
-ZSH_AUTOSUGGEST_BUFFER_MAX_SIZE=20
-
 # default editor 
 export EDITOR='vim'
 
