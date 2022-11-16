@@ -6,6 +6,7 @@ export EDITOR='vim'
 # aliases
 alias act="source env/bin/activate"
 alias c="clear"
+alias dotfiles="cd ~/.dotfiles"
 alias e="exit"
 alias f="forge"
 alias g="git"
