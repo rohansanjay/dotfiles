@@ -1,5 +1,5 @@
-" color scheme
-colors zenburn
+" color scheme 
+" colors zenburn
 set t_Co=256
 
 "important for startup
