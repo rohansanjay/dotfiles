@@ -1,3 +1,5 @@
+export PATH="/usr/local/bin:$PATH"
+
 # default editor 
 export EDITOR='vim'
 
@@ -12,6 +14,8 @@ alias gm="foundryup"
 alias headers="cd ~/Documents/Repos/personal/headers && cargo run"
 alias jl="jupyter lab"
 alias ll="ls -a"
+alias pip="pip3"
+alias python="python3"
 alias tree="tree -I 'node_modules|cache|yarn.lock|package.json|__pycache__|out'"
 alias v="vim"
 alias vs="code ."
