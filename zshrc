@@ -6,6 +6,7 @@ export EDITOR='vim'
 # aliases
 alias addssh="ssh-add --apple-use-keychain ~/.ssh/id_ed25519"
 alias c="clear"
+alias d="docker"
 alias dev="cd ~/Documents/code/"
 alias dotfiles="cd ~/.dotfiles"
 alias e="exit"
