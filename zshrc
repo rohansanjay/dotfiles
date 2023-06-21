@@ -24,3 +24,4 @@ alias vs="code ."
 alias y="yarn"
 
 export PATH="$PATH:/Users/rohansanjay/.foundry/bin"
+export PATH="/Users/rohansanjay/Documents/code/argo/ezkl/target/release:$PATH"
