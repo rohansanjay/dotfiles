@@ -22,6 +22,7 @@ alias ll="ls -a"
 alias pip="pip3"
 alias python="python3"
 alias sb="supabase"
+alias tf="terraform"
 alias tree="tree -I 'node_modules|cache|yarn.lock|package.json|__pycache__|out'"
 alias v="vim"
 alias vs="code ."
@@ -34,3 +35,4 @@ export PATH="$PATH:/Users/rohansanjay/.foundry/bin"
 
 export GOPATH=$HOME/go
 export PATH=$PATH:$GOPATH/bin
+
